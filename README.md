@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Logo" width="200"/>
+  <img src="./assets/logo.png" alt="Logo" width="100"/>
 </p>
 
-# UoW-Compass
+# UoW Compass
 
 An interactive campus navigation app for the University of Westminster, built using the WRLD3D API.
